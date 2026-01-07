@@ -61,7 +61,7 @@ const EmailForm = () => {
 
   return (
     <div style={{ maxWidth: '600px', margin: 'auto', padding: '20px' }}>
-      <h2>Email Assistant</h2>
+      <h2>Email Creator form</h2>
 
       <label>To Email:</label>
       <input
