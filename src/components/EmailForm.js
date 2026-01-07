@@ -72,7 +72,7 @@ const EmailForm = () => {
         placeholder="recipient@example.com"
       />
 
-      <label>Matter (What do you want to say?):</label>
+      <label>Matter (What do you want to say?)</label>
       <textarea
         value={matter}
         onChange={(e) => setMatter(e.target.value)}
